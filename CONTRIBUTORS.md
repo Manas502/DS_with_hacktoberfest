@@ -322,3 +322,9 @@
 - Place: Pune, India
 - Bio: Cs
 - GitHub: (https://github.com/Tagsahil)
+
+### Name: Manasdeep Singh
+
+- Place: Delhi, India
+- Bio: Computer Science Undergraduate
+- Github: [Manas502](https://github.com/Manas502)
